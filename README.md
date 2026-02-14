@@ -156,11 +156,14 @@ streamlit run streamlit_wine_app.py
 **Additional Features**: Interactive charts, comparative analysis, model rankings, responsive design
 
 ## Technologies Used
-
-- Python 3.8+
-- Streamlit 1.31.0
-- Scikit-learn 1.4.0
-- XGBoost 2.0.3
-- Pandas, NumPy, Plotly
+- Python 
+- Pandas
+- NumPy
+- Plotly
+- Streamlit
+- scikit-learn
+- xgboost
+- matplotlib
+- seaborn
 
 ---
