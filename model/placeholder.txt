@@ -1,3 +1,0 @@
-# Model Files
-
-This folder contains trained model files and training data.
