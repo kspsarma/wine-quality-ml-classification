@@ -1,8 +1,8 @@
-   streamlit
-   scikit-learn
-   numpy
-   pandas
-   xgboost
-   plotly
-   matplotlib
-   seaborn
+streamlit
+scikit-learn
+numpy
+pandas
+xgboost
+plotly
+matplotlib
+seaborn
